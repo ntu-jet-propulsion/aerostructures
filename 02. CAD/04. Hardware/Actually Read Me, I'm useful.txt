@@ -1,0 +1,9 @@
+Hello!
+
+Hardware is something standardised so its best practice to not make it yourself, and if you do try to make it only once.
+
+In solidworks, make sure you have the solidworks toolbox addin loaded so you can access the whole nuts and bolts repository.
+
+If you need to make a u-bolt or eyebolt, try to buy lots of the same eyebolt from one supplier to ensure consistence.
+
+Ta ta~~
